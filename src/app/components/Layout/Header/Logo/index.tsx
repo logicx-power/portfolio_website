@@ -6,11 +6,12 @@ const Logo = () => {
   return (
     <Link href='/'>
       <Image
-        src={getImgPath('/images/logo/logo.svg')}
+        src={getImgPath('/images/logo/logo.png')}
         alt='logo'
         width={151}
         height={56}
-        className='w-full block dark:hidden'        
+        className='w-full block dark:hidden'     
+        style={{ width: '50px'}}
       />
       <Image
         src={getImgPath('/images/logo/white-logo.svg')}
