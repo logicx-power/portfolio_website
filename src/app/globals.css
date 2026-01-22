@@ -1,0 +1,63 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-primary: #2f73f2;
+  --color-secondary: #f5f9ff;
+  --color-lightgrey: #547593;
+  --color-darkmode: #081738;
+  --color-darklight: #000f30;
+  --color-darkblue: #102d47;
+  --color-lightdarkblue: #112145;
+
+  /* spacing */
+  --spacing-45: 45%;
+
+  /* breakpoint */
+  --breakpoint-xs: 420px;
+}
+
+@layer utilities {
+  .container {
+    @apply max-w-7xl mx-auto w-full px-4;
+  }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  section {
+    @apply py-14;
+  }
+
+  h1 {
+    @apply text-darkblue dark:text-white capitalize md:text-6xl text-5xl font-bold xl:leading-tight leading-tight;
+  }
+
+  h2 {
+    @apply text-darkblue dark:text-white capitalize md:text-5xl text-4xl font-bold;
+  }
+
+  h3 {
+    @apply text-white capitalize text-3xl font-normal
+  }
+
+  h4 {
+    @apply text-darkblue dark:text-white capitalize text-2xl font-medium;
+  }
+
+  h5 {
+    @apply text-darkblue dark:text-white capitalize text-xl font-medium;
+  }
+
+  h6 {
+    @apply text-darkblue dark:text-white capitalize text-lg font-medium;
+  }
+
+  p {
+    @apply text-lightgrey capitalize text-base;
+  }
+}

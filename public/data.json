@@ -1,0 +1,229 @@
+{
+  "HeroData": [
+    {
+      "imgSrc": "/images/banner/blogforgeCover.png"
+    },
+    {
+      "imgSrc": "/images/banner/gleamerCover.png"
+    },
+    {
+      "imgSrc": "/images/banner/learnaxisCover.png"
+    },
+    {
+      "imgSrc": "/images/banner/studiovaCover.png"
+    }
+  ],
+  "NavLinkData": [
+    {
+      "label": "Projects",
+      "href": "/#project"
+    },
+    {
+      "label": "Expertise",
+      "href": "/#expertise"
+    },
+    {
+      "label": "Categories",
+      "href": "/#categories"
+    }
+  ],
+  "ProjectData": [
+    {
+      "coverImg": "/images/project/blogforge.png",
+      "name": "Blog Forge"
+    },
+    {
+      "coverImg": "/images/project/gleamer.png",
+      "name": "Gleamer"
+    },
+    {
+      "coverImg": "/images/project/learnaxis.png",
+      "name": "Learnaxis"
+    },
+    {
+      "coverImg": "/images/project/studiova.png",
+      "name": "Studiova"
+    },
+    {
+      "coverImg": "/images/project/homely.jpeg",
+      "name": "Homely"
+    },
+    {
+      "coverImg": "/images/project/awake.png",
+      "name": "Awake"
+    },
+    {
+      "coverImg": "/images/project/endeavor.png",
+      "name": "Endeavor"
+    }
+  ],
+  "RecordData": [
+    {
+      "imgSrc": "/images/records/star.svg",
+      "digit": "4.6 Rating",
+      "desc": "Rated by 6 clients on freelancer platforms"
+    },
+    {
+      "imgSrc": "/images/records/user.svg",
+      "digit": "6 Clients",
+      "desc": "Trusted by global brands for design and digital solutions"
+    },
+    {
+      "imgSrc": "/images/records/cart.svg",
+      "digit": "$45M+ Revenue",
+      "desc": "Generated through websites, apps, and marketing globally"
+    },
+    {
+      "imgSrc": "/images/records/star.svg",
+      "digit": "50+ Projects",
+      "desc": "Delivered websites, branding, and full digital experiences worldwide"
+    }
+  ],
+  "ReviewData": [
+    {
+      "imgSrc": "/images/review/marcus.webp",
+      "name": "Konan",
+      "rating": 5.0,
+      "desc": "Milos is a true professional, This was a very complicated project with multiple layers of schematic and PCB design involved that needed to be designed and executed within a short time constraint. The schematic that Milos designed was not only a genius interpretation of my idea but masterfully executed using a signal path and components i would have never thought to use myself. Milos, takes every care in ensuring designs are perfected and no mention of release of funds. I would highly reccomend"
+    },
+    {
+      "imgSrc": "/images/review/sophia.webp",
+      "name": "Mauricio",
+      "rating": 5.0,
+      "desc": "Trabalho feito corretamente conforme solicitado."
+    },
+    {
+      "imgSrc": "/images/review/daniel.webp",
+      "name": "Philip ",
+      "rating": 4.5,
+      "desc": "Good work but needs to tidy up professionalism and 100% checking of designs. We will now move on to next milestone which I hope is smoother"
+    }
+  ],
+  "SpecializeData": [
+    {
+      "imgSrc": "/images/specialization/webdesign.svg",
+      "title": "PCB Design",
+      "desc": "Combine schematic design, layout optimization, and design for manufacturability to deliver reliable, manufacturable boards within time and cost constraints.."
+    },
+    {
+      "imgSrc": "/images/specialization/logodesign.svg",
+      "title": "Firmware",
+      "desc": "Integrates schematic design, layout optimization, and design-for-manufacturability to deliver reliable, manufacturable firmware-driven boards within schedule and budget constraintss."
+    },
+    {
+      "imgSrc": "/images/specialization/mobileapp.svg",
+      "title": "CAD",
+      "desc": "Specializes in parametric modeling, assembly design, and design-for-manufacturability, delivering valid CAD data and robust documentation for rapid prototyping and production."
+    },
+    {
+      "imgSrc": "/images/specialization/contentwrite.svg",
+      "title": "Robotics",
+      "desc": " Designs and integrates perception, control, and actuation systems for reliable autonomous behavior in real-world environments."
+    },
+    {
+      "imgSrc": "/images/specialization/seooptimize.svg",
+      "title": "IoT",
+      "desc": "Designs and integrates sensor networks, edge processing, and cloud connectivity for reliable, scalable IoT solutions.                                "
+    },
+    {
+      "imgSrc": "/images/specialization/digitalmarketing.svg",
+      "title": "Digital Marketing",
+      "desc": "Targeted digital campaigns to build awareness and grow your audience."
+    }
+  ],
+  "PlanData": [
+    {
+      "type": "Basic",
+      "price": {
+        "monthly": 9,
+        "yearly": 95
+      },
+      "desc": "Ideal for freelancers and startups.",
+      "option": [
+        "Consultation with strategy session",
+        "Basic design and development",
+        "One revision per project",
+        "Responsive on all devices",
+        "Email support included only"
+      ]
+    },
+    {
+      "type": "Pro",
+      "price": {
+        "monthly": 19,
+        "yearly": 185
+      },
+      "desc": "Perfect for small growing teams.",
+      "option": [
+        "Advanced project planning support",
+        "Premium design and development",
+        "Three revisions per project",
+        "Fully responsive and optimized",
+        "Priority email and chat support"
+      ]
+    }
+  ],
+  "CategoryData": [
+    {
+      "imgSrc": "/images/category/webdev.webp",
+      "title": "Web Design"
+    },
+    {
+      "imgSrc": "/images/category/logods.webp",
+      "title": "Logo Design"
+    },
+    {
+      "imgSrc": "/images/category/mobileapp.webp",
+      "title": "Mobile App Development"
+    },
+    {
+      "imgSrc": "/images/category/contentwrite.webp",
+      "title": "Content Writing"
+    },
+    {
+      "imgSrc": "/images/category/digitalmarket.webp",
+      "title": "Digital Marketing"
+    }
+  ],
+  "FooterLinkData": [
+    {
+      "section": "Company",
+      "links": [
+        {
+          "label": "Projects",
+          "href": "/#project"
+        },
+        {
+          "label": "Expertise",
+          "href": "/#expertise"
+        },
+        {
+          "label": "Categories",
+          "href": "/#categories"
+        }
+      ]
+    },
+    {
+      "section": "Support",
+      "links": [
+        {
+          "label": "Help center",
+          "href": "/"
+        },
+        {
+          "label": "Terms of service",
+          "href": "/"
+        },
+        {
+          "label": "Legal",
+          "href": "/"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/"
+        }
+      ]
+    }
+  ]
+}
+
