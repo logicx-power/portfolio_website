@@ -165,23 +165,23 @@
   ],
   "CategoryData": [
     {
-      "imgSrc": "/images/category/webdev.webp",
+      "imgSrc": "/images/category/webdev.png",
       "title": "Web Design"
     },
     {
-      "imgSrc": "/images/category/logods.webp",
+      "imgSrc": "/images/category/logods.png",
       "title": "Logo Design"
     },
     {
-      "imgSrc": "/images/category/mobileapp.webp",
+      "imgSrc": "/images/category/mobileapp.png",
       "title": "Mobile App Development"
     },
     {
-      "imgSrc": "/images/category/contentwrite.webp",
+      "imgSrc": "/images/category/contentwrite.png",
       "title": "Content Writing"
     },
     {
-      "imgSrc": "/images/category/digitalmarket.webp",
+      "imgSrc": "/images/category/digitalmarket.png",
       "title": "Digital Marketing"
     }
   ],

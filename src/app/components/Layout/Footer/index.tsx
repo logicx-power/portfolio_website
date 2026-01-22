@@ -29,23 +29,23 @@ const Footer = () => {
 
       <div className="py-3">
         <p className="text-center">
-          @2025 - All Rights Reserved by{" "}
+          @2026 - All Rights Reserved by{" "}
           <Link
             href="https://getnextjstemplates.com/"
             target="_blank"
             className="hover:text-primary dark:hover:text-primary"
           >
             {" "}
-            GetNextJs Templates.com
+            Jeric Conzales
           </Link>
-          {" - Distributed by "}
+          {/* {" - Distributed by "}
           <Link
             href="https://themewagon.com"
             target="_blank"
             className="hover:text-primary dark:hover:text-primary"
           >
             ThemeWagon
-          </Link>
+          </Link> */}
         </p>
       </div>
     </footer>
